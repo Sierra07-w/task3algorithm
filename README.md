@@ -8,21 +8,33 @@ The goal is to connect all city districts with the **minimum total road cost**.
 ## 📁 Project Structure
 
 src/
+   
     └── main/
 
-└── java/
+      └── java/
 
-└── org/example/
+         └── org/example/
+         
 ├── Main.java
+
 ├── Graph.java
+
 ├── Edge.java
+
 ├── MSTAlgorithms.java
+
 ├── InputParser.java
+
 ├── OutputWriter.java
+
 ├── MSTResult.java
+
 ├── MSTTests.java
+
 ├── input.json
+
 ├── output.json
+
 └── summary.csv
 
 
