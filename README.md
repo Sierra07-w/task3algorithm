@@ -8,8 +8,11 @@ The goal is to connect all city districts with the **minimum total road cost**.
 ## 📁 Project Structure
 
 src/
+
 └── main/
+
 └── java/
+
 └── org/example/
 ├── Main.java
 ├── Graph.java
