@@ -8,20 +8,20 @@ The goal is to connect all city districts with the **minimum total road cost**.
 ## 📁 Project Structure
 
 src/
- └── main/
-     └── java/
-         └── org/example/
-             ├── Main.java
-             ├── Graph.java
-             ├── Edge.java
-             ├── MSTAlgorithms.java
-             ├── InputParser.java
-             ├── OutputWriter.java
-             ├── MSTResult.java
-             ├── MSTTests.java
-             ├── input.json
-             ├── output.json
-             └── summary.csv
+└── main/
+└── java/
+└── org/example/
+├── Main.java
+├── Graph.java
+├── Edge.java
+├── MSTAlgorithms.java
+├── InputParser.java
+├── OutputWriter.java
+├── MSTResult.java
+├── MSTTests.java
+├── input.json
+├── output.json
+└── summary.csv
 
 
 ---
@@ -78,9 +78,4 @@ src/
 - **Prim’s Algorithm** performs better for **large and dense graphs**.  
 - Both are correct and useful for **city transportation optimization**.
 
----
-
-**Author:** Mukhammad Sarah  
-**Course:** Data Structures and Algorithms  
-**Assignment:** 3 — Optimization of a City Transportation Network  
 
