@@ -15,27 +15,27 @@ src/
 
          └── org/example/
          
-├── Main.java
+          ├── Main.java
 
-├── Graph.java
+          ├── Graph.java
 
-├── Edge.java
+          ├── Edge.java
 
-├── MSTAlgorithms.java
+          ├── MSTAlgorithms.java
 
-├── InputParser.java
+          ├── InputParser.java
 
-├── OutputWriter.java
+          ├── OutputWriter.java
 
-├── MSTResult.java
+          ├── MSTResult.java
 
-├── MSTTests.java
+          ├── MSTTests.java
 
-├── input.json
+          ├── input.json
 
-├── output.json
-
-└── summary.csv
+          ├── output.json
+ 
+          └── summary.csv
 
 
 ---
